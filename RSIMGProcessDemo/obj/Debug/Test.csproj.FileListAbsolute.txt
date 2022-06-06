@@ -1,0 +1,67 @@
+G:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\Test.exe.config
+G:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Form1.resources
+G:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\Test.exe.config
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\Test.exe
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\Test.pdb
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\gdalconst_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\gdal_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\ogr_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\osr_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.exe
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.pdb
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.imageInfo.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.MainFrm.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.ImageShow.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.HistogramForm.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.RadiationCorr.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.CoarseCor.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Image_Registration.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Registration_statistics.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\Interop.WMPLib.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\Debug\AxInterop.WMPLib.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Interop.MediaPlayer.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Interop.WMPLib.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\AxInterop.WMPLib.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\Debug\Test.Image_Fusion.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\Test.exe.config
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.exe
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.pdb
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\Test.exe
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\Test.pdb
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\gdalconst_csharp.dll
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\gdal_csharp.dll
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\ogr_csharp.dll
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\bin\Debug\osr_csharp.dll
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.CoarseCor.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.HistogramForm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Image_Fusion.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Image_Registration.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.MainFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.imageInfo.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.ImageShow.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.RadiationCorr.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Registration_statistics.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.BandChooseFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Histogram_MatchingFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Image_Segmentation.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Segement_Application.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Classification_Propertites.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.K_MeansFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.ISODataFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Supervised_Classification.SupervisedClassFrm.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.Supervised_Classification.Set_ROI.resources
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\University_Project\Junior\First_Term\Remote sensing digital image processing\EX\Test\Test\obj\Debug\Test.csproj.CopyComplete

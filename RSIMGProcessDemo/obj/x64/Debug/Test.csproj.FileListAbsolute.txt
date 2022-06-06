@@ -1,0 +1,14 @@
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\Test.exe.config
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\Test.exe
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\Test.pdb
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\gdalconst_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\gdal_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\ogr_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\bin\x64\Debug\osr_csharp.dll
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.Form1.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.csproj.CopyComplete
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.exe
+E:\University_Project\Junior\First_Term\遥感数字图像处理\EX\Test\Test\obj\x64\Debug\Test.pdb
